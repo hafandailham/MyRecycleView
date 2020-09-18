@@ -6,6 +6,7 @@ Di mode ini kita akan melihat beberapa tokoh pahlawan dan kita bisa melihat biod
 # Mode Grid
 Di sini kita bisa melihat beberapa foto dari beberapa tokoh pahlawan
 ![2](https://user-images.githubusercontent.com/63888291/93617105-bd87ed00-f9ff-11ea-83e9-d99f5217baa9.jpeg)
+
 Namun punya saya sekarang masih mengalami masalah jadi gambarnya belum berdempetan dan masih ada jarak
 
 ![3](https://user-images.githubusercontent.com/63888291/93617118-c24ca100-f9ff-11ea-949e-4792831078f3.jpeg)
