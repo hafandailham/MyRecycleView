@@ -1,8 +1,8 @@
 # MyRecycleView
 Recycle view adalah salah satu widget yang lebih canggih dari pada listwiew itu sendiri. Recycle view ini memiliki sifat yang lebih fleksibel dan memiliki fungsi untuk menampilkan data dengan lebih efisien dan dalam jumlah yang besar.
-
 # Mode List
 Di mode ini kita akan melihat beberapa tokoh pahlawan dan kita bisa melihat biodata atau sejarah dari beberapa tokoh tersebut
+
 ![1](https://user-images.githubusercontent.com/63888291/93617085-b8c33900-f9ff-11ea-8bec-ac984bc86581.jpeg)
 # Mode Grid
 Di sini kita bisa melihat beberapa foto dari beberapa tokoh pahlawan
